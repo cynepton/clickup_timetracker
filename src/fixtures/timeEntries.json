@@ -1,0 +1,764 @@
+{
+    "data": [
+        {
+            "id": "3433579042744812655",
+            "task": {
+                "id": "8669zt9jh",
+                "custom_id": "ISAAC-61",
+                "name": "Typescript full course",
+                "status": {
+                    "status": "completed",
+                    "color": "#2ecd6f",
+                    "type": "done",
+                    "orderindex": 6
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1680453398752",
+            "end": "1680454074087",
+            "duration": "675335",
+            "description": "Typescript course",
+            "tags": [],
+            "source": "clickup",
+            "at": "1680454074087",
+            "task_location": {
+                "list_id": "128544161",
+                "folder_id": "74472560",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-61"
+        },
+        {
+            "id": "3433895985913776473",
+            "task": {
+                "id": "8669zt9jh",
+                "custom_id": "ISAAC-61",
+                "name": "Typescript full course",
+                "status": {
+                    "status": "completed",
+                    "color": "#2ecd6f",
+                    "type": "done",
+                    "orderindex": 6
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1680472290032",
+            "end": "1680477728687",
+            "duration": "5438655",
+            "description": "Typescript course",
+            "tags": [],
+            "source": "clickup",
+            "at": "1680477728687",
+            "task_location": {
+                "list_id": "128544161",
+                "folder_id": "74472560",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-61"
+        },
+        {
+            "id": "3433987254186920640",
+            "task": {
+                "id": "8669zt9jh",
+                "custom_id": "ISAAC-61",
+                "name": "Typescript full course",
+                "status": {
+                    "status": "completed",
+                    "color": "#2ecd6f",
+                    "type": "done",
+                    "orderindex": 6
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1680477730062",
+            "end": "1680490380364",
+            "duration": "12650302",
+            "description": "typescript course",
+            "tags": [],
+            "source": "clickup",
+            "at": "1680490397303",
+            "task_location": {
+                "list_id": "128544161",
+                "folder_id": "74472560",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-61"
+        },
+        {
+            "id": "3434227171127184774",
+            "task": {
+                "id": "8669zt9jh",
+                "custom_id": "ISAAC-61",
+                "name": "Typescript full course",
+                "status": {
+                    "status": "completed",
+                    "color": "#2ecd6f",
+                    "type": "done",
+                    "orderindex": 6
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1680492030215",
+            "end": "1680496720732",
+            "duration": "4690517",
+            "description": "typescript course",
+            "tags": [],
+            "source": "clickup",
+            "at": "1680496720732",
+            "task_location": {
+                "list_id": "128544161",
+                "folder_id": "74472560",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-61"
+        },
+        {
+            "id": "3434660216523188493",
+            "task": {
+                "id": "8669zemxh",
+                "custom_id": "ISAAC-58",
+                "name": "Investigate and practice using Typescript for infrastructure as code.",
+                "status": {
+                    "status": "in progress",
+                    "color": "#04A9F4",
+                    "type": "custom",
+                    "orderindex": 4
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1680517841729",
+            "end": "1680520661285",
+            "duration": "2819556",
+            "description": "Watching hashiconf video",
+            "tags": [],
+            "source": "clickup",
+            "at": "1680520661285",
+            "task_location": {
+                "list_id": "900901084596",
+                "folder_id": "74472560",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-58"
+        },
+        {
+            "id": "3435491924743014735",
+            "task": {
+                "id": "8669zt9jh",
+                "custom_id": "ISAAC-61",
+                "name": "Typescript full course",
+                "status": {
+                    "status": "completed",
+                    "color": "#2ecd6f",
+                    "type": "done",
+                    "orderindex": 6
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1680567415409",
+            "end": "1680571920910",
+            "duration": "4505501",
+            "description": "",
+            "tags": [],
+            "source": "clickup",
+            "at": "1680589937334",
+            "task_location": {
+                "list_id": "128544161",
+                "folder_id": "74472560",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-61"
+        },
+        {
+            "id": "3436029641830686646",
+            "task": {
+                "id": "8669zemxh",
+                "custom_id": "ISAAC-58",
+                "name": "Investigate and practice using Typescript for infrastructure as code.",
+                "status": {
+                    "status": "in progress",
+                    "color": "#04A9F4",
+                    "type": "custom",
+                    "orderindex": 4
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1680599465828",
+            "end": "1680600223375",
+            "duration": "757547",
+            "description": "UNDERSTANDING THE TERRAFORM CDK",
+            "tags": [],
+            "source": "clickup",
+            "at": "1680600223375",
+            "task_location": {
+                "list_id": "900901084596",
+                "folder_id": "74472560",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-58"
+        },
+        {
+            "id": "3436216332147224598",
+            "task": {
+                "id": "86697n4kt",
+                "custom_id": "ISAAC-48",
+                "name": "Google Cloud Skills boost courses - https://mail.google.com/mail/u/0/#inbox/FMfcgzGrbtxSqcWfnrqBLnHtVJGQtPss",
+                "status": {
+                    "status": "in progress",
+                    "color": "#04A9F4",
+                    "type": "custom",
+                    "orderindex": 4
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1680610593427",
+            "end": "1680610637205",
+            "duration": "43778",
+            "description": "",
+            "tags": [],
+            "source": "clickup",
+            "at": "1680610637205",
+            "task_location": {
+                "list_id": "128544161",
+                "folder_id": "74472560",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-48"
+        },
+        {
+            "id": "3436510672681686437",
+            "task": {
+                "id": "8669zemxh",
+                "custom_id": "ISAAC-58",
+                "name": "Investigate and practice using Typescript for infrastructure as code.",
+                "status": {
+                    "status": "in progress",
+                    "color": "#04A9F4",
+                    "type": "custom",
+                    "orderindex": 4
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1680628137483",
+            "end": "1680628997001",
+            "duration": "859518",
+            "description": "",
+            "tags": [],
+            "source": "clickup",
+            "at": "1680628997001",
+            "task_location": {
+                "list_id": "900901084596",
+                "folder_id": "74472560",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-58"
+        },
+        {
+            "id": "3436558583259978820",
+            "task": {
+                "id": "8669zt9jh",
+                "custom_id": "ISAAC-61",
+                "name": "Typescript full course",
+                "status": {
+                    "status": "completed",
+                    "color": "#2ecd6f",
+                    "type": "done",
+                    "orderindex": 6
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1680630993195",
+            "end": "1680632082955",
+            "duration": "1089760",
+            "description": "",
+            "tags": [],
+            "source": "clickup",
+            "at": "1680632082955",
+            "task_location": {
+                "list_id": "128544161",
+                "folder_id": "74472560",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-61"
+        },
+        {
+            "id": "3436596669721338134",
+            "task": {
+                "id": "8669zt9jh",
+                "custom_id": "ISAAC-61",
+                "name": "Typescript full course",
+                "status": {
+                    "status": "completed",
+                    "color": "#2ecd6f",
+                    "type": "done",
+                    "orderindex": 6
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1680633263319",
+            "end": "1680634862621",
+            "duration": "1599302",
+            "description": "",
+            "tags": [],
+            "source": "clickup",
+            "at": "1680634862621",
+            "task_location": {
+                "list_id": "128544161",
+                "folder_id": "74472560",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-61"
+        },
+        {
+            "id": "3436712757536747092",
+            "task": {
+                "id": "8669zt9jh",
+                "custom_id": "ISAAC-61",
+                "name": "Typescript full course",
+                "status": {
+                    "status": "completed",
+                    "color": "#2ecd6f",
+                    "type": "done",
+                    "orderindex": 6
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1680640182663",
+            "end": "1680642120374",
+            "duration": "1937711",
+            "description": "",
+            "tags": [],
+            "source": "clickup",
+            "at": "1680672790351",
+            "task_location": {
+                "list_id": "128544161",
+                "folder_id": "74472560",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-61"
+        },
+        {
+            "id": "3443903572071663030",
+            "task": {
+                "id": "866a03mjr",
+                "custom_id": "ISAAC-62",
+                "name": "Design Personal time tracking app to use clickup with added features  for easily tracking my time.",
+                "status": {
+                    "status": "in progress",
+                    "color": "#04A9F4",
+                    "type": "custom",
+                    "orderindex": 4
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1681068788640",
+            "end": "1681069086566",
+            "duration": "297926",
+            "description": "Initial investigation on the requirements",
+            "tags": [],
+            "source": "clickup",
+            "at": "1681069086566",
+            "task_location": {
+                "list_id": "228099019",
+                "folder_id": "90090577594",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-62"
+        },
+        {
+            "id": "3443908571044496832",
+            "task": {
+                "id": "866a2bmfz",
+                "custom_id": "ISAAC-66",
+                "name": "Bootstrap initial typescript project required for this.",
+                "status": {
+                    "status": "completed",
+                    "color": "#2ecd6f",
+                    "type": "done",
+                    "orderindex": 6
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1681069086541",
+            "end": "1681071168656",
+            "duration": "2082115",
+            "description": "Investigate bootstrapping the application",
+            "tags": [],
+            "source": "clickup",
+            "at": "1681071169435",
+            "task_location": {
+                "list_id": "228099019",
+                "folder_id": "90090577594",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-66"
+        },
+        {
+            "id": "3444560140467425373",
+            "task": {
+                "id": "866a2bmfz",
+                "custom_id": "ISAAC-66",
+                "name": "Bootstrap initial typescript project required for this.",
+                "status": {
+                    "status": "completed",
+                    "color": "#2ecd6f",
+                    "type": "done",
+                    "orderindex": 6
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1681107923177",
+            "end": "1681108919083",
+            "duration": "995906",
+            "description": "Investigate bootstrapping the application",
+            "tags": [],
+            "source": "clickup",
+            "at": "1681108919083",
+            "task_location": {
+                "list_id": "228099019",
+                "folder_id": "90090577594",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-66"
+        },
+        {
+            "id": "3445030148452644847",
+            "task": {
+                "id": "866a2bmfz",
+                "custom_id": "ISAAC-66",
+                "name": "Bootstrap initial typescript project required for this.",
+                "status": {
+                    "status": "completed",
+                    "color": "#2ecd6f",
+                    "type": "done",
+                    "orderindex": 6
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1681135937820",
+            "end": "1681145460556",
+            "duration": "9522736",
+            "description": "Investigate bootstrapping the application",
+            "tags": [],
+            "source": "clickup",
+            "at": "1681145460556",
+            "task_location": {
+                "list_id": "228099019",
+                "folder_id": "90090577594",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-66"
+        },
+        {
+            "id": "3445198081657130333",
+            "task": {
+                "id": "866a2bmjb",
+                "custom_id": "ISAAC-67",
+                "name": "Design the interface with a single calendar view showing all tasks and current tasks being tracked on clickup",
+                "status": {
+                    "status": "in progress",
+                    "color": "#04A9F4",
+                    "type": "custom",
+                    "orderindex": 4
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1681145947424",
+            "end": "1681149386040",
+            "duration": "3438616",
+            "description": "Working on a way to bootstrap the calendar view",
+            "tags": [],
+            "source": "clickup",
+            "at": "1681149386040",
+            "task_location": {
+                "list_id": "228099019",
+                "folder_id": "90090577594",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-67"
+        },
+        {
+            "id": "3445286256765294686",
+            "task": {
+                "id": "866a2bmjb",
+                "custom_id": "ISAAC-67",
+                "name": "Design the interface with a single calendar view showing all tasks and current tasks being tracked on clickup",
+                "status": {
+                    "status": "in progress",
+                    "color": "#04A9F4",
+                    "type": "custom",
+                    "orderindex": 4
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1681151203086",
+            "end": "1681155971353",
+            "duration": "4768267",
+            "description": "learning material UI",
+            "tags": [],
+            "source": "clickup",
+            "at": "1681155971353",
+            "task_location": {
+                "list_id": "228099019",
+                "folder_id": "90090577594",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-67"
+        },
+        {
+            "id": "3446629235123798434",
+            "task": {
+                "id": "866a2bmjb",
+                "custom_id": "ISAAC-67",
+                "name": "Design the interface with a single calendar view showing all tasks and current tasks being tracked on clickup",
+                "status": {
+                    "status": "in progress",
+                    "color": "#04A9F4",
+                    "type": "custom",
+                    "orderindex": 4
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1681231250808",
+            "end": "1681233201121",
+            "duration": "1950313",
+            "description": "learning material UI",
+            "tags": [],
+            "source": "clickup",
+            "at": "1681233201121",
+            "task_location": {
+                "list_id": "228099019",
+                "folder_id": "90090577594",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-67"
+        },
+        {
+            "id": "3452186253293243000",
+            "task": {
+                "id": "866a2bmjb",
+                "custom_id": "ISAAC-67",
+                "name": "Design the interface with a single calendar view showing all tasks and current tasks being tracked on clickup",
+                "status": {
+                    "status": "in progress",
+                    "color": "#04A9F4",
+                    "type": "custom",
+                    "orderindex": 4
+                },
+                "custom_type": null
+            },
+            "wid": "2637219",
+            "user": {
+                "id": 6602773,
+                "username": "Isaac Aderonmu",
+                "email": "aderonmuisaac@gmail.com",
+                "color": "#ffa12f",
+                "initials": "IA",
+                "profilePicture": null
+            },
+            "billable": false,
+            "start": "1681562474914",
+            "end": "1681569067795",
+            "duration": "6592881",
+            "description": "Adding full calendar to the react ap",
+            "tags": [],
+            "source": "clickup",
+            "at": "1681569067795",
+            "task_location": {
+                "list_id": "228099019",
+                "folder_id": "90090577594",
+                "space_id": "32423676"
+            },
+            "task_url": "https://app.clickup.com/t/2637219/ISAAC-67"
+        }
+    ]
+}

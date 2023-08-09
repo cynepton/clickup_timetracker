@@ -1,0 +1,80 @@
+{"features": {
+    "due_dates": {
+        "enabled": true,
+        "start_date": true,
+        "remap_due_dates": true,
+        "remap_closed_due_date": false
+    },
+    "sprints": {
+        "enabled": false
+    },
+    "time_tracking": {
+        "enabled": true,
+        "harvest": false,
+        "rollup": false
+    },
+    "points": {
+        "enabled": false
+    },
+    "custom_items": {
+        "enabled": false
+    },
+    "priorities": {
+        "enabled": true,
+        "priorities": [
+            {
+                "color": "#f50000",
+                "id": "1",
+                "orderindex": "1",
+                "priority": "urgent"
+            },
+            {
+                "color": "#ffcc00",
+                "id": "2",
+                "orderindex": "2",
+                "priority": "high"
+            },
+            {
+                "color": "#6fddff",
+                "id": "3",
+                "orderindex": "3",
+                "priority": "normal"
+            },
+            {
+                "color": "#d8d8d8",
+                "id": "4",
+                "orderindex": "4",
+                "priority": "low"
+            }
+        ]
+    },
+    "tags": {
+        "enabled": true
+    },
+    "time_estimates": {
+        "enabled": true,
+        "rollup": false,
+        "per_assignee": false
+    },
+    "check_unresolved": {
+        "enabled": true,
+        "subtasks": null,
+        "checklists": null,
+        "comments": null
+    },
+    "zoom": {
+        "enabled": false
+    },
+    "milestones": {
+        "enabled": true
+    },
+    "custom_fields": {
+        "enabled": true
+    },
+    "remap_dependencies": {
+        "enabled": true
+    },
+    "dependency_warning": {
+        "enabled": true
+    }
+}}
